@@ -9,7 +9,7 @@ Welcome to my first Repository!
 ## How to Read Code
 - Format of Code
   - Annotation in Code
-   - Comment Section and Meanings 
+    - Comment Section and Meanings 
               
 ## Files Used
 
