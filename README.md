@@ -7,7 +7,10 @@ Welcome to my first Repository!
 - Further Resources (Summary of Code, and Additional Documents)
 
 ## How to Read Code
-
+- Format of Code
+       - Annotation in Code
+              - Comment Section and Meanings 
+              
 ## Files Used
 
 ## Further Resources
