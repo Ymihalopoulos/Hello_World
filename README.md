@@ -1,4 +1,3 @@
-# Hello_World
 Welcome to my first Repository! In this repository I will introduce you to my coding and how to use them for your benefit.
 
 ## Introduction
