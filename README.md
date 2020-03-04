@@ -1,10 +1,10 @@
 # Hello_World
 Welcome to my first Repository!
 
-##Introduction
+## Introduction
 
-##How to Read Code
+## How to Read Code
 
-##Files Used
+## Files Used
 
 
